@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "order": 0,
+      "type": "SECTION",
+      "reference": "3.1",
+      "level": 1,
+      "description": "EQUIPEMENTS DE CHANTIER"
+    },
+    {
+      "order": 1,
+      "type": "SECTION",
+      "reference": "3.2",
+      "level": 1,
+      "description": "RESEAUX DE TERRE"
+    },
+    {
+      "order": 2,
+      "type": "CELL",
+      "description": "Prise de terre",
+      "unity": "u",
+      "quantity": 1
+    },
+    {
+      "order": 3,
+      "type": "CELL",
+      "description": "Liaisons équipotentielles principales",
+      "unity": "ens",
+      "quantity": 1
+    },
+    {
+      "order": 4,
+      "type": "CELL",
+      "description": "Liaisons équipotentielles secondaires",
+      "unity": "ens",
+      "quantity": 1
+    },
+    {
+      "order": 5,
+      "type": "CELL",
+      "description": "Prise de terre local fibre",
+      "unity": "u",
+      "quantity": 1
+    }
+  ]
+}
